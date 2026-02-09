@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BUMP OF CHICKEN『車輪の唄』",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-09T15:30:25.496412Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BUMP OF CHICKENのテーマ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_BUMP_OF_CHICKENのテーマ_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
